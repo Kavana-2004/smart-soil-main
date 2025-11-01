@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soil Analysis Results</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #e8f5e9;
+            margin: 0;
+            padding: 40px;
+            text-align: center;
+        }
+        h2 {
+            color: #2e7d32;
+            font-size: 28px;
+        }
+        .result-container {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            display: inline-block;
+            padding: 30px 50px;
+            text-align: left;
+        }
+        img {
+            max-width: 250px;
+            border-radius: 10px;
+            margin: 15px auto;
+            display: block;
+        }
+        .recommendation {
+            background-color: #f9fbe7;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+        .error {
+            background-color: #ffebee;
+            color: #b71c1c;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            background-color: #43a047;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: 0.3s;
+        }
+        .button:hover {
+            background-color: #2e7d32;
+        }
+    </style>
+</head>
+<body>
+    <h2>🌾 Soil Analysis Results</h2>
+    
+    <div class="result-container">
+        {% if image_path %}
+            <h3>📷 Uploaded Soil Image</h3>
+            <img src="{{ url_for('static', filename='uploads/' + image_path.split('/')[-1]) }}" alt="Soil Image">
+        {% endif %}
+        
+        <div class="recommendation">
+            {{ result_html | safe }}
+        </div>
+        
+        <a href="{{ url_for('index') }}" class="button">🔁 Analyze Another Sample</a>
+    </div>
+</body>
+</html>

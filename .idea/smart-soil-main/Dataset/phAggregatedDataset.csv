@@ -1,0 +1,9 @@
+Soil_Type,Average_pH,pH_Range,Best_Crops,Optional_Crops,Not_Recommended_Crops,Best_Fertilizers,Optional_Fertilizers,Not_Recommended_Fertilizers
+Black Soil,6.85,6.0-7.7,"Barley, Soybean, Wheat, Groundnut, Cotton, Maize","Sugarcane, Sunflower, Sorghum","Coffee, Tea","Organic Compost, NPK (Balanced), DAP","Ammonium sulfate, Urea","Excess Lime"
+Alluvial Soil,7.0,6.2-7.8,"Rice, Barley, Wheat, Sugarcane, Maize","Potato, Onion","Rubber, Coffee, Tea","NPK, Compost, FYM","Ammonium sulfate, Urea, DAP","pH altering fertilizers"
+Red Soil,6.25,5.5-7.0,"Millets, Pulses, Barley, Groundnut, Cotton","Maize, Sunflower","Jute, Rice","Rock Phosphate, NPK, Organic Matter","Ammonium sulfate, Liming agents, Urea","Ammonium sulfate"
+Clay Soil,5.75,5.0-6.5,"Sugarcane, Jute, Rice, Barley, Maize","Wheat, Barley","Cotton, Groundnut","Organic Matter, NPK fertilizers","Ammonium sulfate, Compost, FYM, Urea","Excess Chemical Fertilizers"
+Laterite Soil,5.25,4.5-6.0,"Spices, Barley, Cashew, Coffee, Tea, Maize","Coconut, Arecanut","Maize, Wheat","Organic Compost, Liming agents","Ammonium sulfate, Common NPK, Urea","Acid-forming fertilizers"
+Peat Soil,4.75,4.0-5.5,"Carrot, Potato, Vegetables, Barley, Maize","Rice, Barley","Cotton, Sugarcane","P & K rich fertilizers, Liming agents","Small N doses, Ammonium sulfate, Urea","Excess Nitrogen"
+Yellow Soil,5.75,5.0-6.5,"Barley, Millets, Groundnut, Pulses, Maize","Maize, Sunflower","Sugarcane, Rice","NPK, Organic Matter","Ammonium sulfate, Urea, DAP","Excess Lime"
+Cinder Soil,6.0,5.2-6.8,"Pineapple, Maize, Banana, Barley","Potato, Sweet Potato","Cotton, Wheat","Organic Compost, Minimal NPK","Ammonium sulfate, Micronutrients, Urea","Excess Fertilizers"

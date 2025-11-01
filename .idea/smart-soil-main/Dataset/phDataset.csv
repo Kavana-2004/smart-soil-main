@@ -1,0 +1,68 @@
+Soil_Type,pH_Value,pH_Category,Best_Crop_Recommendation,Optional_Crop_Recommendation,Crop_Not_Recommended,Best_Fertilizer,Optional_Fertilizer,Fertilizer_Not_Recommended
+Black Soil,6.0,Moderately Acidic,"Barley, Soybean, Wheat, Groundnut, Cotton","Sugarcane, Sunflower, Sorghum","Coffee, Tea","Organic Compost, NPK (Balanced), DAP","Ammonium sulfate, Urea",Excess Lime
+Black Soil,6.2,Moderately Acidic,"Barley, Soybean, Wheat, Groundnut, Cotton","Sugarcane, Sunflower, Sorghum","Coffee, Tea","Organic Compost, NPK (Balanced), DAP","Ammonium sulfate, Urea",Excess Lime
+Black Soil,6.4,Moderately Acidic,"Barley, Soybean, Wheat, Groundnut, Cotton","Sugarcane, Sunflower, Sorghum","Coffee, Tea","Organic Compost, NPK (Balanced), DAP","Ammonium sulfate, Urea",Excess Lime
+Black Soil,6.6,Neutral,"Barley, Soybean, Wheat, Groundnut, Cotton","Sugarcane, Sunflower, Sorghum","Coffee, Tea","Organic Compost, NPK (Balanced), DAP","Ammonium sulfate, Urea",Excess Lime
+Black Soil,6.8,Neutral,"Barley, Soybean, Wheat, Groundnut, Cotton","Sugarcane, Sunflower, Sorghum","Coffee, Tea","Organic Compost, NPK (Balanced), DAP","Ammonium sulfate, Urea",Excess Lime
+Black Soil,7.0,Slightly Alkaline,"Soybean, Wheat, Groundnut, Cotton, Maize","Sugarcane, Sunflower, Sorghum","Coffee, Tea","Organic Compost, NPK (Balanced), DAP","Ammonium sulfate, Urea",Excess Lime
+Black Soil,7.2,Slightly Alkaline,"Soybean, Wheat, Groundnut, Cotton, Maize","Sugarcane, Sunflower, Sorghum","Coffee, Tea","Organic Compost, NPK (Balanced), DAP","Ammonium sulfate, Urea",Excess Lime
+Black Soil,7.4,Slightly Alkaline,"Soybean, Wheat, Groundnut, Cotton, Maize","Sugarcane, Sunflower, Sorghum","Coffee, Tea","Organic Compost, NPK (Balanced), DAP","Ammonium sulfate, Urea",Excess Lime
+Black Soil,7.6,Strongly Alkaline,"Soybean, Wheat, Groundnut, Cotton, Maize","Sugarcane, Sunflower, Sorghum","Coffee, Tea","Organic Compost, NPK (Balanced), DAP","Ammonium sulfate, Urea",Excess Lime
+Alluvial Soil,6.2,Moderately Acidic,"Rice, Barley, Wheat, Sugarcane, Maize","Potato, Onion","Rubber, Coffee, Tea","NPK, Compost, FYM","Ammonium sulfate, Urea, DAP",pH altering fertilizers
+Alluvial Soil,6.4,Moderately Acidic,"Rice, Barley, Wheat, Sugarcane, Maize","Potato, Onion","Rubber, Coffee, Tea","NPK, Compost, FYM","Ammonium sulfate, Urea, DAP",pH altering fertilizers
+Alluvial Soil,6.6,Neutral,"Rice, Barley, Wheat, Sugarcane, Maize","Potato, Onion","Rubber, Coffee, Tea","NPK, Compost, FYM","Ammonium sulfate, Urea, DAP",pH altering fertilizers
+Alluvial Soil,6.8,Neutral,"Rice, Barley, Wheat, Sugarcane, Maize","Potato, Onion","Rubber, Coffee, Tea","NPK, Compost, FYM","Ammonium sulfate, Urea, DAP",pH altering fertilizers
+Alluvial Soil,7.0,Slightly Alkaline,"Sugarcane, Wheat, Rice, Maize","Potato, Onion","Rubber, Coffee, Tea","NPK, Compost, FYM","Urea, DAP",pH altering fertilizers
+Alluvial Soil,7.2,Slightly Alkaline,"Sugarcane, Wheat, Rice, Maize","Potato, Onion","Rubber, Coffee, Tea","NPK, Compost, FYM","Urea, DAP",pH altering fertilizers
+Alluvial Soil,7.4,Slightly Alkaline,"Sugarcane, Wheat, Rice, Maize","Potato, Onion","Rubber, Coffee, Tea","NPK, Compost, FYM","Urea, DAP",pH altering fertilizers
+Alluvial Soil,7.6,Strongly Alkaline,"Sugarcane, Wheat, Rice, Maize","Potato, Onion","Rubber, Coffee, Tea","NPK, Compost, FYM","Urea, DAP",pH altering fertilizers
+Alluvial Soil,7.8,Strongly Alkaline,"Sugarcane, Wheat, Rice, Maize","Potato, Onion","Rubber, Coffee, Tea","NPK, Compost, FYM","Urea, DAP",pH altering fertilizers
+Red Soil,5.5,Moderately Acidic,"Millets, Pulses, Barley, Groundnut, Cotton","Maize, Sunflower","Jute, Rice","Rock Phosphate, NPK, Organic Matter","Ammonium sulfate, Liming agents",Ammonium sulfate
+Red Soil,5.7,Moderately Acidic,"Millets, Pulses, Barley, Groundnut, Cotton","Maize, Sunflower","Jute, Rice","Rock Phosphate, NPK, Organic Matter","Ammonium sulfate, Liming agents",Ammonium sulfate
+Red Soil,5.9,Moderately Acidic,"Millets, Pulses, Barley, Groundnut, Cotton","Maize, Sunflower","Jute, Rice","Rock Phosphate, NPK, Organic Matter","Ammonium sulfate, Liming agents",Ammonium sulfate
+Red Soil,6.1,Moderately Acidic,"Millets, Pulses, Barley, Groundnut, Cotton","Maize, Sunflower","Jute, Rice","Rock Phosphate, NPK, Organic Matter","Ammonium sulfate, Liming agents",Ammonium sulfate
+Red Soil,6.3,Moderately Acidic,"Millets, Pulses, Groundnut, Cotton, Maize","Maize, Sunflower","Jute, Rice","Rock Phosphate, NPK, Organic Matter","Urea, Liming agents",Ammonium sulfate
+Red Soil,6.5,Neutral,"Millets, Pulses, Groundnut, Cotton, Maize","Maize, Sunflower","Jute, Rice","Rock Phosphate, NPK, Organic Matter","Urea, Liming agents",Ammonium sulfate
+Red Soil,6.7,Neutral,"Millets, Pulses, Groundnut, Cotton, Maize","Maize, Sunflower","Jute, Rice","Rock Phosphate, NPK, Organic Matter","Urea, Liming agents",Ammonium sulfate
+Red Soil,6.9,Neutral,"Millets, Pulses, Groundnut, Cotton, Maize","Maize, Sunflower","Jute, Rice","Rock Phosphate, NPK, Organic Matter","Urea, Liming agents",Ammonium sulfate
+Clay Soil,5.0,Strongly Acidic,"Sugarcane, Jute, Rice, Barley","Wheat, Barley","Cotton, Groundnut","Organic Matter, NPK fertilizers","Ammonium sulfate, Compost, FYM",Excess Chemical Fertilizers
+Clay Soil,5.2,Strongly Acidic,"Sugarcane, Jute, Rice, Barley","Wheat, Barley","Cotton, Groundnut","Organic Matter, NPK fertilizers","Ammonium sulfate, Compost, FYM",Excess Chemical Fertilizers
+Clay Soil,5.4,Strongly Acidic,"Sugarcane, Jute, Rice, Barley","Wheat, Barley","Cotton, Groundnut","Organic Matter, NPK fertilizers","Ammonium sulfate, Compost, FYM",Excess Chemical Fertilizers
+Clay Soil,5.6,Moderately Acidic,"Sugarcane, Jute, Rice, Barley","Wheat, Barley","Cotton, Groundnut","Organic Matter, NPK fertilizers","Ammonium sulfate, Compost, FYM",Excess Chemical Fertilizers
+Clay Soil,5.8,Moderately Acidic,"Sugarcane, Jute, Rice, Maize","Wheat, Barley","Cotton, Groundnut","Organic Matter, NPK fertilizers","Urea, Compost, FYM",Excess Chemical Fertilizers
+Clay Soil,6.0,Moderately Acidic,"Sugarcane, Jute, Rice, Maize","Wheat, Barley","Cotton, Groundnut","Organic Matter, NPK fertilizers","Urea, Compost, FYM",Excess Chemical Fertilizers
+Clay Soil,6.2,Moderately Acidic,"Sugarcane, Jute, Rice, Maize","Wheat, Barley","Cotton, Groundnut","Organic Matter, NPK fertilizers","Urea, Compost, FYM",Excess Chemical Fertilizers
+Clay Soil,6.4,Moderately Acidic,"Sugarcane, Jute, Rice, Maize","Wheat, Barley","Cotton, Groundnut","Organic Matter, NPK fertilizers","Urea, Compost, FYM",Excess Chemical Fertilizers
+Laterite Soil,4.5,Strongly Acidic,"Spices, Barley, Cashew, Coffee, Tea","Coconut, Arecanut","Maize, Wheat","Organic Compost, Liming agents","Ammonium sulfate, Common NPK",Acid-forming fertilizers
+Laterite Soil,4.7,Strongly Acidic,"Spices, Barley, Cashew, Coffee, Tea","Coconut, Arecanut","Maize, Wheat","Organic Compost, Liming agents","Ammonium sulfate, Common NPK",Acid-forming fertilizers
+Laterite Soil,4.9,Strongly Acidic,"Spices, Barley, Cashew, Coffee, Tea","Coconut, Arecanut","Maize, Wheat","Organic Compost, Liming agents","Ammonium sulfate, Common NPK",Acid-forming fertilizers
+Laterite Soil,5.1,Strongly Acidic,"Spices, Barley, Cashew, Coffee, Tea","Coconut, Arecanut","Maize, Wheat","Organic Compost, Liming agents","Ammonium sulfate, Common NPK",Acid-forming fertilizers
+Laterite Soil,5.3,Strongly Acidic,"Spices, Cashew, Coffee, Maize, Tea","Coconut, Arecanut","Maize, Wheat","Organic Compost, Liming agents","Common NPK, Urea",Acid-forming fertilizers
+Laterite Soil,5.5,Moderately Acidic,"Spices, Cashew, Coffee, Maize, Tea","Coconut, Arecanut","Maize, Wheat","Organic Compost, Liming agents","Common NPK, Urea",Acid-forming fertilizers
+Laterite Soil,5.7,Moderately Acidic,"Spices, Cashew, Coffee, Maize, Tea","Coconut, Arecanut","Maize, Wheat","Organic Compost, Liming agents","Common NPK, Urea",Acid-forming fertilizers
+Laterite Soil,5.9,Moderately Acidic,"Spices, Cashew, Coffee, Maize, Tea","Coconut, Arecanut","Maize, Wheat","Organic Compost, Liming agents","Common NPK, Urea",Acid-forming fertilizers
+Peat Soil,4.0,Strongly Acidic,"Carrot, Potato, Vegetables, Barley","Rice, Barley","Cotton, Sugarcane","P & K rich fertilizers, Liming agents","Small N doses, Ammonium sulfate",Excess Nitrogen
+Peat Soil,4.2,Strongly Acidic,"Carrot, Potato, Vegetables, Barley","Rice, Barley","Cotton, Sugarcane","P & K rich fertilizers, Liming agents","Small N doses, Ammonium sulfate",Excess Nitrogen
+Peat Soil,4.4,Strongly Acidic,"Carrot, Potato, Vegetables, Barley","Rice, Barley","Cotton, Sugarcane","P & K rich fertilizers, Liming agents","Small N doses, Ammonium sulfate",Excess Nitrogen
+Peat Soil,4.6,Strongly Acidic,"Carrot, Potato, Vegetables, Barley","Rice, Barley","Cotton, Sugarcane","P & K rich fertilizers, Liming agents","Small N doses, Ammonium sulfate",Excess Nitrogen
+Peat Soil,4.8,Strongly Acidic,"Carrot, Potato, Vegetables, Maize","Rice, Barley","Cotton, Sugarcane","P & K rich fertilizers, Liming agents","Small N doses, Urea",Excess Nitrogen
+Peat Soil,5.0,Strongly Acidic,"Carrot, Potato, Vegetables, Maize","Rice, Barley","Cotton, Sugarcane","P & K rich fertilizers, Liming agents","Small N doses, Urea",Excess Nitrogen
+Peat Soil,5.2,Strongly Acidic,"Carrot, Potato, Vegetables, Maize","Rice, Barley","Cotton, Sugarcane","P & K rich fertilizers, Liming agents","Small N doses, Urea",Excess Nitrogen
+Peat Soil,5.4,Strongly Acidic,"Carrot, Potato, Vegetables, Maize","Rice, Barley","Cotton, Sugarcane","P & K rich fertilizers, Liming agents","Small N doses, Urea",Excess Nitrogen
+Yellow Soil,5.0,Strongly Acidic,"Barley, Millets, Groundnut, Pulses","Maize, Sunflower","Sugarcane, Rice","NPK, Organic Matter","Ammonium sulfate, Urea, DAP",Excess Lime
+Yellow Soil,5.2,Strongly Acidic,"Barley, Millets, Groundnut, Pulses","Maize, Sunflower","Sugarcane, Rice","NPK, Organic Matter","Ammonium sulfate, Urea, DAP",Excess Lime
+Yellow Soil,5.4,Strongly Acidic,"Barley, Millets, Groundnut, Pulses","Maize, Sunflower","Sugarcane, Rice","NPK, Organic Matter","Ammonium sulfate, Urea, DAP",Excess Lime
+Yellow Soil,5.6,Moderately Acidic,"Barley, Millets, Groundnut, Pulses","Maize, Sunflower","Sugarcane, Rice","NPK, Organic Matter","Ammonium sulfate, Urea, DAP",Excess Lime
+Yellow Soil,5.8,Moderately Acidic,"Millets, Maize, Groundnut, Pulses","Maize, Sunflower","Sugarcane, Rice","NPK, Organic Matter","Urea, DAP",Excess Lime
+Yellow Soil,6.0,Moderately Acidic,"Millets, Maize, Groundnut, Pulses","Maize, Sunflower","Sugarcane, Rice","NPK, Organic Matter","Urea, DAP",Excess Lime
+Yellow Soil,6.2,Moderately Acidic,"Millets, Maize, Groundnut, Pulses","Maize, Sunflower","Sugarcane, Rice","NPK, Organic Matter","Urea, DAP",Excess Lime
+Yellow Soil,6.4,Moderately Acidic,"Millets, Maize, Groundnut, Pulses","Maize, Sunflower","Sugarcane, Rice","NPK, Organic Matter","Urea, DAP",Excess Lime
+Cinder Soil,5.2,Strongly Acidic,"Pineapple, Maize, Banana, Barley","Potato, Sweet Potato","Cotton, Wheat","Organic Compost, Minimal NPK","Ammonium sulfate, Micronutrients",Excess Fertilizers
+Cinder Soil,5.4,Strongly Acidic,"Pineapple, Maize, Banana, Barley","Potato, Sweet Potato","Cotton, Wheat","Organic Compost, Minimal NPK","Ammonium sulfate, Micronutrients",Excess Fertilizers
+Cinder Soil,5.6,Moderately Acidic,"Pineapple, Maize, Banana, Barley","Potato, Sweet Potato","Cotton, Wheat","Organic Compost, Minimal NPK","Ammonium sulfate, Micronutrients",Excess Fertilizers
+Cinder Soil,5.8,Moderately Acidic,"Pineapple, Maize, Banana, Barley","Potato, Sweet Potato","Cotton, Wheat","Organic Compost, Minimal NPK","Ammonium sulfate, Micronutrients",Excess Fertilizers
+Cinder Soil,6.0,Moderately Acidic,"Pineapple, Maize, Banana","Potato, Sweet Potato","Cotton, Wheat","Organic Compost, Minimal NPK","Micronutrients, Urea",Excess Fertilizers
+Cinder Soil,6.2,Moderately Acidic,"Pineapple, Maize, Banana","Potato, Sweet Potato","Cotton, Wheat","Organic Compost, Minimal NPK","Micronutrients, Urea",Excess Fertilizers
+Cinder Soil,6.4,Moderately Acidic,"Pineapple, Maize, Banana","Potato, Sweet Potato","Cotton, Wheat","Organic Compost, Minimal NPK","Micronutrients, Urea",Excess Fertilizers
+Cinder Soil,6.6,Neutral,"Pineapple, Maize, Banana","Potato, Sweet Potato","Cotton, Wheat","Organic Compost, Minimal NPK","Micronutrients, Urea",Excess Fertilizers
+Cinder Soil,6.8,Neutral,"Pineapple, Maize, Banana","Potato, Sweet Potato","Cotton, Wheat","Organic Compost, Minimal NPK","Micronutrients, Urea",Excess Fertilizers
